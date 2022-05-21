@@ -1,0 +1,14 @@
+remote_theme: pages-themes/slate@v0.2.0
+title: "Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network"
+# name: "IMC 2022 #99"
+author: "Anonymous Authors"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+description: "IMC 2022 #99"
