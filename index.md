@@ -12,20 +12,18 @@ The analysis of our scans through the relay network verifies Apple’s claim of 
 
 ## Ingress ECS Scan Data
 
-Due to the data's size detailed ingress scan data is made available on an institution server when author anonymity is lifted.
-
 - Ingress Scan Data: [all](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data)
 - QUIC (mask.icloud.com) Ingress Addresses:
-    - [January](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/ecs-scan-2022-01-14.ips)
-    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-2022-02-05.ips)
-    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-2022-03-25.ips)
-    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-2022-04-22.ips)
+    - [January](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/ecs-scan-2022-01-14.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/raw-data)
+    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-2022-02-05.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-data)
+    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-data)
+    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-data)
     - additional data will be made available
 - TCP (mask-h2.icloud.com) Ingress Addresses:
     - January: no data
-    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-h2-2022-02-10.ips)
-    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-h2-2022-03-25.ips)
-    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-h2-2022-04-22.ips)
+    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-h2-2022-02-10.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-data-h2)
+    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-h2-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-data-h2)
+    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-h2-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-data-h2)
     - additional data will be made available
 
 ## Egress Archive
