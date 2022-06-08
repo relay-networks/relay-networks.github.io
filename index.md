@@ -14,16 +14,16 @@ The analysis of our scans through the relay network verifies Apple’s claim of 
 
 - Ingress Scan Data: [all](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data)
 - QUIC (mask.icloud.com) Ingress Addresses:
-    - [January](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/ecs-scan-2022-01-14.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/raw-data)
-    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-2022-02-05.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-data)
-    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-data)
-    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-data)
+    - [January](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/ecs-scan-2022-01-14.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-01/raw-results)
+    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-2022-02-05.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-results)
+    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-results)
+    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-results)
     - additional data will be made available
 - TCP (mask-h2.icloud.com) Ingress Addresses:
     - January: no data
-    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-h2-2022-02-10.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-data-h2)
-    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-h2-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-data-h2)
-    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-h2-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-data-h2)
+    - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-h2-2022-02-10.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-results-h2)
+    - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-h2-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-results-h2)
+    - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-h2-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-results-h2)
     - additional data will be made available
 
 ## Egress Archive
