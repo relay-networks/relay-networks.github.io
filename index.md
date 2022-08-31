@@ -4,7 +4,7 @@ Accepted at IMC'22
 
 Authors: Patrick Sattler, Juliane Aulbach, Johannes Zirngibl, Georg Carle
 
-
+Preprint available [https://arxiv.org/abs/2207.02112](https://arxiv.org/abs/2207.02112)
 
 ## Abstract
 
