@@ -1,6 +1,10 @@
 # Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network
 
-Authors: TBA
+Accepted at IMC'22
+
+Authors: Patrick Sattler, Juliane Aulbach, Johannes Zirngibl, Georg Carle
+
+
 
 ## Abstract
 
