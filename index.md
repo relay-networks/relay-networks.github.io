@@ -39,4 +39,4 @@ Egress IP ranges are available for selected days. A daily archive is available s
 
 ## iCloud Private Relay Scans
 
-Scan data violates double blind requirements due to the location based egress selection of iCloud Private Relay. It will be made available when anonymity is lifted.
+Data now available: [Link]((https://github.com/relay-networks/relay-networks.github.io/tree/main/igress-egress-scan))
