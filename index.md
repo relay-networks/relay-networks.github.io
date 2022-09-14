@@ -32,9 +32,10 @@ The analysis of our scans through the relay network verifies Apple’s claim of 
 
 ## Egress Archive
 
-Egress IP ranges are available for selected days. For the future a daily archive starting in mid of May is available.
+Egress IP ranges are available for selected days. A daily archive is available starting in mid of May is available.
 
 [Egress Archive](https://github.com/relay-networks/relay-networks.github.io/tree/main/egress-ip-ranges)
+[Daily Egress Archive](https://github.com/relay-networks/relay-networks.github.io/tree/main/egress-daily-archive)
 
 ## iCloud Private Relay Scans
 
