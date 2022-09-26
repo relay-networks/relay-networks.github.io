@@ -6,6 +6,8 @@ Authors: Patrick Sattler, Juliane Aulbach, Johannes Zirngibl, Georg Carle
 
 Preprint available [https://arxiv.org/abs/2207.02112](https://arxiv.org/abs/2207.02112)
 
+Data archive for results used in this paper: [https://mediatum.ub.tum.de/1687050](https://mediatum.ub.tum.de/1687050)
+
 ## Abstract
 
 Apple recently published its first Beta of the iCloud Private Relay, a privacy protection service with promises resembling the ones of VPNs. The architecture consists of two layers (ingress and egress), operated by disjoint providers. The service is directly integrated into Apple's operating systems and therefore provides a low entry level barrier for a large user base. It seems to be set up for major adoption with its relatively moderate entry-level price.
