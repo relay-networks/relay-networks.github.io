@@ -39,4 +39,4 @@ Egress IP ranges are available for selected days. A daily archive is available s
 
 ## iCloud Private Relay Scans
 
-Data now available: [Link]((https://github.com/relay-networks/relay-networks.github.io/tree/main/igress-egress-scan))
+Data now available: [Link](https://github.com/relay-networks/relay-networks.github.io/tree/main/igress-egress-scan)
