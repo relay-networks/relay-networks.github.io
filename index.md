@@ -24,13 +24,13 @@ The analysis of our scans through the relay network verifies Apple’s claim of 
     - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-2022-02-05.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-results)
     - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-results)
     - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-results)
-    - additional data will be made available
+    - weekly ingress IP addresses can be found in our [archive](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/archive)
 - TCP (mask-h2.icloud.com) Ingress Addresses:
     - January: no data
     - [February](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/ecs-scan-h2-2022-02-10.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-02/raw-results-h2)
     - [March](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/ecs-scan-h2-2022-03-25.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-03/raw-results-h2)
     - [April](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/ecs-scan-h2-2022-04-22.ips) [(raw data)](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/2022-04/raw-results-h2)
-    - additional data will be made available
+    - weekly ingress IP addresses can be found in our [archive](https://github.com/relay-networks/relay-networks.github.io/tree/main/ingress-ecs-scan-data/archive)
 
 ## Egress Archive
 
