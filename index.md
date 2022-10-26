@@ -44,22 +44,23 @@ Egress IP ranges are available for selected days. A daily archive is available s
 Data now available: [Link](https://github.com/relay-networks/relay-networks.github.io/tree/main/igress-egress-scan)
 
 ## Cite
+- [Bib](https://raw.githubusercontent.com/relay-networks/relay-networks.github.io/main/private-relay-22.bib)
 
 ```
-@inproceedings{sattler2022tectonicshift,
-author = {Sattler, Patrick and Aulbach, Juliane and Zirngibl, Johannes and Carle, Georg},
-title = {Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network},
-year = {2022},
-isbn = {9781450392594},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi-org.eaccess.ub.tum.de/10.1145/3517745.3561426},
-doi = {10.1145/3517745.3561426},
-booktitle = {Proceedings of the 22nd ACM Internet Measurement Conference},
-pages = {449–457},
-numpages = {9},
-location = {Nice, France},
-series = {IMC '22}
+@inproceedings{sattler2022tectonictrafficshift,
+    author = {Sattler, Patrick and Aulbach, Juliane and Zirngibl, Johannes and Carle, Georg},
+    title = {Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network},
+    year = {2022},
+    isbn = {9781450392594},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi-org.eaccess.ub.tum.de/10.1145/3517745.3561426},
+    doi = {10.1145/3517745.3561426},
+    booktitle = {Proceedings of the 22nd ACM Internet Measurement Conference},
+    pages = {449–457},
+    numpages = {9},
+    location = {Nice, France},
+    series = {IMC '22}
 }
 ```
 
