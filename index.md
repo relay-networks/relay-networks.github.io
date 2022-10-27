@@ -1,7 +1,5 @@
 # Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network
 
-Accepted at IMC'22
-
 Authors: Patrick Sattler, Juliane Aulbach, Johannes Zirngibl, Georg Carle
 
 Paper available (open access) [https://dl.acm.org/doi/10.1145/3517745.3561426](https://dl.acm.org/doi/10.1145/3517745.3561426)

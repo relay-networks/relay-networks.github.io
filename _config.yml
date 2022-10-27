@@ -1,7 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: "Towards a Tectonic Traffic Shift? Investigating Apple's New Relay Network"
 # name: "IMC 2022 #99"
-author: "Anonymous Authors"
+author: "Patrick Sattler, Juliane Aulbach, Johannes Zirngibl, Georg Carle"
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
@@ -11,4 +11,4 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-description: "IMC 2022 #99"
+description: "Get access to the data used in the paper and our continuous scan results"
